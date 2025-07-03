@@ -30,7 +30,7 @@ function HomepageHeader() {
         </div>
         <div className={styles.heroImage}>
           <img
-            src="../../static/img/DocUmwandlung.png"
+            src="img/DocUmwandlung.png"
             alt="Dokumente ganz simpel"
             className={styles.image}
           />

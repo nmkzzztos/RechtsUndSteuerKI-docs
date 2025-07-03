@@ -5,22 +5,22 @@ import styles from "./styles.module.css";
 const FeatureList = [
   {
     title: "Automatisierte Dokumentenerstellung",
-    img: "../../static/img/AutoDokumentation.png",
+    img: "img/AutoDokumentation.png",
     description: "Dokumente effizient und fehlerfrei generieren",
   },
   {
     title: "Sicherheit garantiert",
-    img: "../../static/img/SicherheitGarnatiert.png",
+    img: "img/SicherheitGarnatiert.png",
     description: "Modernste Standards für Sicherheit und Vertraulichkeit",
   },
   {
     title: "KI-gestützte Analyse",
-    img: "../../static/img/KIgestutzteAnalyse.png",
+    img: "img/KIgestutzteAnalyse.png",
     description: "Intelligente Auswertung und Aufbereitung von Informationen",
   },
   {
     title: "Individuelle Anpassbarkeit",
-    img: "../../static/img/IndividuelleAnpass.png",
+    img: "img/IndividuelleAnpass.png",
     description: "Lösungen genau zugeschnitten auf Ihre Anforderungen",
   },
 ];

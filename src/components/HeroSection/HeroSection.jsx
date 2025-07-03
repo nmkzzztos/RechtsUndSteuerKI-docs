@@ -26,7 +26,7 @@ export default function HeroSection() {
         </div>
         <div className={styles.imageBlock}>
           <img
-            src={useBaseUrl("../../static/img/DocUmwandlung.png")}
+            src={useBaseUrl("img/DocUmwandlung.png")}
             alt="Dokumente einfach erstellen"
             className={styles.heroImage}
           />
