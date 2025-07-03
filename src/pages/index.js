@@ -24,7 +24,7 @@ function HomepageHeader() {
             Optimieren Sie ihre Kanzleiprozesse mit unserer intelligenten
             Plattform.
           </p>
-          <Link className={styles.ctaButton} to="/docs/intro">
+          <Link className={styles.ctaButton} to="/intro">
             Jetzt testen
           </Link>
         </div>

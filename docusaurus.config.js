@@ -74,28 +74,12 @@ const config = {
       style: "dark",
       links: [
         {
-          title: "Über LAX KI",
+          title: "Dokumentation",
           items: [
-            { label: "Das Unternehmen", to: "/intro/unternehmen" },
-            { label: "Presse", to: "/intro/presse" },
-            { label: "Community", to: "/intro/community" },
-            { label: "Newsletter", to: "/intro/newsletter" },
-          ],
-        },
-        {
-          title: "Service",
-          items: [
-            { label: "Hilfecenter", to: "/intro/hilfecenter" },
-            { label: "Service & Support", to: "/intro/support" },
-            { label: "Chatbot", to: "/intro/chatbot" },
-            { label: "MyLAX KI", to: "/intro/mylax-ki" },
-          ],
-        },
-        {
-          title: "Rechtliches",
-          items: [
-            { label: "Impressum", to: "/intro/impressum" },
-            { label: "Datenschutz", to: "/intro/datenschutz" },
+            { label: "Einleitung", to: "/intro/category/einleitung" },
+            { label: "Funktionen", to: "/intro/category/seiten--funktionen" },
+            { label: "Frontend", to: "/intro/category/frontend" },
+            { label: "Backend", to: "/intro/category/backend" },
           ],
         },
       ],
