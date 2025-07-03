@@ -44,7 +44,7 @@ Zusätzlich oben rechts:
 
 Die folgende Abbildung zeigt das Dashboard mit zwei Beispiel-Workflows:
 
-![alt text](../../static/img/ÜbersichtDashboard.png)
+![alt text](../../static/img/übersichtDashboard.png)
 
 >  Diese Ansicht zeigt die **Dashboard-Seite**. Über die obere Navigationsleiste kannst du per einfachem Klick zu den Bereichen **Mandate** und **Dokumente** wechseln.
 

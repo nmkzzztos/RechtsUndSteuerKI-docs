@@ -14,7 +14,7 @@ Hier kannst du neue Vorlagen hochladen, bestehende bearbeiten, Platzhalter defin
 
 ##  Dokumentenliste
 
-![alt text](../../static/img/Übersicht_Dokumentenliste.png)
+![alt text](../../static/img/übersicht_Dokumentenliste.png)
 
 In der **Dokumentenliste** findest du alle bereits erstellten oder hochgeladenen Templates.  
 Angezeigt werden:

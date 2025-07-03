@@ -10,7 +10,7 @@ sidebar_label: Mandate Page
 Die **Mandanten-Seite** dient zur zentralen Verwaltung aller Kunden- bzw. Mandatsdaten.  
 Hier können neue **Mandate erfasst**, bestehende **bearbeitet**, **eingesehen** oder bei Bedarf **gelöscht** werden.
 
-![alt text](../../static/img/Mandate_Übersicht.png)
+![alt text](../../static/img/Mandate_übersicht.png)
 
 Man unterscheidet zwischen zwei Arten von Mandaten:
 - **Natürliche Person** – z. B. Privatpersonen, Freiberufler
@@ -52,7 +52,7 @@ Für **Unternehmen**:
 
 ##  Mandantenliste & Detailansicht
 
-![alt text](../../static/img/Mandate_Übersicht.png)
+![alt text](../../static/img/Mandate_übersicht.png)
 
 Alle angelegten Mandanten erscheinen in der **Mandantenliste**. Diese ist übersichtlich in Kartenform aufgebaut und bietet:
 

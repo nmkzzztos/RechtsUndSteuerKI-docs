@@ -15,7 +15,7 @@ Im Dashboard erhältst du eine Übersicht aller aktuell laufenden Workflows. Jed
 
 Die folgende Abbildung zeigt die Hauptansicht des Dashboards:
 
-![alt text](../../static/img/ÜbersichtDashboard.png)
+![alt text](../../static/img/übersichtDashboard.png)
 
 
 > In der Dashboard-Ansicht werden alle aktiven Workflows als Karten dargestellt. Über die obere Leiste kannst du nach **Status**, **Priorität** oder nach einem **Mandanten- bzw. Workflownamen** filtern.
