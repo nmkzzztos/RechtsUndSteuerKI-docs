@@ -10,7 +10,7 @@ const config = {
 
   future: { v4: true },
   url: "https://www.lax-ki.de",
-  baseUrl: "/",
+  baseUrl: "/RechtsUndSteuerKI-docs/",
   organizationName: "lax-ki",
   projectName: "lax-ki-website",
   onBrokenLinks: "throw",
