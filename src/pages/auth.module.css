@@ -1,0 +1,64 @@
+.container {
+  max-width: 400px;
+  margin: 3rem auto;
+  padding: 2rem;
+  background: white;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  font-family: Lato, sans-serif;
+}
+h1 {
+  text-align: center;
+  margin-bottom: 0.5rem;
+}
+p {
+  text-align: center;
+  margin-bottom: 1.5rem;
+}
+.form {
+  display: flex;
+  flex-direction: column;
+}
+label {
+  margin-bottom: 1rem;
+  font-weight: 500;
+}
+input {
+  width: 100%;
+  padding: 0.75rem;
+  margin-top: 0.25rem;
+  border: 1px solid #ccc;
+  border-radius: 25px;
+  outline: none;
+  transition: border-color 0.2s;
+}
+input:focus {
+  border-color: var(--ifm-color-primary);
+}
+.cta {
+  background: var(--ifm-color-primary-light);
+  color: white;
+  border: none;
+  padding: 0.75rem;
+  border-radius: 25px;
+  font-size: 1rem;
+  font-weight: 600;
+  cursor: pointer;
+  margin-top: 1rem;
+}
+.cta:hover {
+  background: var(--ifm-color-primary-lighter);
+}
+.footerText {
+  text-align: center;
+  margin-top: 1rem;
+  font-size: 0.9rem;
+}
+.footerText a {
+  color: var(--ifm-color-primary);
+  text-decoration: none;
+  font-weight: 600;
+}
+.footerText a:hover {
+  text-decoration: underline;
+}

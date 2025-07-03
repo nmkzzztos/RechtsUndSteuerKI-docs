@@ -1,0 +1,104 @@
+/* custom.css */
+
+/* Definiert die Farbpalette basierend auf #091B32 (Dunkelblau) */
+
+h1, p {
+  text-align: left !important;
+}
+
+/* Standard (Hell) */
+:root {
+  --ifm-color-primary: #091B32; /* Dunkelblau für die Hauptfarbe */
+  --ifm-color-primary-dark: #07162b; /* Dunkleres Blau */
+  --ifm-color-primary-darker: #061322; /* Noch dunkleres Blau */
+  --ifm-color-primary-darkest: #04111d; /* Sehr dunkles Blau */
+  --ifm-color-primary-light: #1b2c44; /* Helleres Blau für Akzente */
+  --ifm-color-primary-lighter: #2e3e59; /* Noch helleres Blau für Akzente */
+  --ifm-color-primary-lightest: #40617a; /* Sehr helles Blau */
+  --ifm-code-font-size: 95%;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1); /* Hervorhebung von Codezeilen */
+}
+
+/* Für den Dark Mode (Verwendung von Blau als Grundlage) */
+[data-theme='dark'] {
+  --ifm-color-primary: #0a1e37; /* Dunkelblau im Dark Mode */
+  --ifm-color-primary-dark: #0a182f; /* Dunkleres Blau */
+  --ifm-color-primary-darker: #081622; /* Noch dunkleres Blau */
+  --ifm-color-primary-darkest: #061320; /* Sehr dunkles Blau */
+  --ifm-color-primary-light: #1b3148; /* Helleres Blau für Akzente */
+  --ifm-color-primary-lighter: #2f4a68; /* Noch helleres Blau für Akzente */
+  --ifm-color-primary-lightest: #3f6279; /* Sehr helles Blau */
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3); /* Codehervorhebung im Dark Mode */
+}
+
+/* Header-Stile */
+.header {
+  background-color: var(--ifm-color-primary); /* Hauptfarbe als Hintergrund */
+  color: white;
+  text-align: center;
+  padding: 3rem;
+}
+
+.header h1 {
+  font-size: 3rem;
+  margin-bottom: 1rem;
+}
+
+.header p {
+  font-size: 1.25rem;
+  margin-bottom: 2rem;
+}
+
+/* Call-to-Action Button */
+.cta-button {
+  background-color: var(--ifm-color-primary-light);  /* Helleres Blau für den Button */
+  padding: 1rem 2rem;
+  text-decoration: none;
+  color: white;
+  border-radius: 4px;
+  font-weight: bold;
+  text-align: center;
+}
+
+.cta-button:hover {
+  background-color: var(--ifm-color-primary-lighter); /* Noch helleres Blau beim Hover */
+}
+
+/* Footer-Stile */
+.footer {
+  background-color: #091B32;  /* Dunkelblau für den Footer */
+  padding: 3rem 0;
+  color: white;
+}
+
+/* Footer Links */
+.footer a {
+  color: #B58C5C; /* Goldene Farbe für Links */
+  text-decoration: none;
+  margin: 0 10px;
+}
+
+.footer a:hover {
+  text-decoration: underline;  /* Unterstreichen der Links beim Hover */
+}
+
+.footer .cta-button {
+  background-color: #B58C5C;  /* Goldene Farbe für den CTA-Button */
+  padding: 1rem 2rem;
+  text-decoration: none;
+  color: white;
+  border-radius: 4px;
+  font-weight: bold;
+  display: inline-block;
+  margin-top: 20px;
+}
+
+.footer .cta-button:hover {
+  background-color: #9e7a53; /* Dunkleres Gold beim Hover */
+}
+
+.footer .copyright {
+  text-align: center;
+  font-size: 0.9rem;
+  margin-top: 20px;
+}
